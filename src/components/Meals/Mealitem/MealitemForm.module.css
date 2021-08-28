@@ -1,0 +1,28 @@
+.form{
+    text-align: right;
+    margin-top: 5%;
+    padding-right: 1rem;
+}
+
+.form button{
+    cursor:pointer;
+    background-color: #8a2b06;
+    border: 1px solid #8a2b06;
+    color: white;
+    padding: 0.30rem 5rem;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.form button:hover,
+.form button:active{
+    background-color: #641e03;
+    border-color: #641e03;
+}
+
+.imgs{
+    margin-top: 1px;
+    width: 12rem;
+    height:6rem;
+}
+
